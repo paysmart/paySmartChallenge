@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566154185972",
+    "project_id": "pay-smart-challenge",
+    "storage_bucket": "pay-smart-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566154185972:android:86db018da37c3134d7a2a1",
+        "android_client_info": {
+          "package_name": "br.com.lucascarlosj.pay_smart_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566154185972-jki2j9veltuhm6r40401ps6735eblj3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApB7ZcqtqL08xsFP0VxtAkEhmNHnycXJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566154185972-jki2j9veltuhm6r40401ps6735eblj3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
